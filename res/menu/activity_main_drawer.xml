@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nav_home"
+        android:icon="@drawable/baseline_home_24"
+        android:title="Home" />
+
+    <item
+        android:id="@+id/nav_rate"
+        android:icon="@drawable/baseline_star_outline_24"
+        android:title="Rate Us" />
+    <item
+        android:id="@+id/nav_share"
+        android:icon="@drawable/baseline_share_24"
+        android:title="Share" />
+<!--    <item-->
+<!--        android:id="@+id/nav_contact"-->
+<!--        android:icon="@drawable/baseline_contacts_24"-->
+<!--        android:title="Contact" />-->
+
+    <item
+        android:id="@+id/nav_developer"
+        android:icon="@drawable/baseline_supervised_user_circle_2434"
+        android:title="Developer" />
+
+    <item
+        android:id="@+id/nav_about"
+        android:icon="@drawable/about"
+        android:title="About Us" />
+    <item
+        android:id="@+id/nav_term"
+        android:icon="@drawable/term"
+        android:title="Term &amp; Condition" />
+
+    <item
+        android:id="@+id/nav_privacy"
+        android:icon="@drawable/privacy"
+        android:title="Privacy Policy" />
+
+</menu>

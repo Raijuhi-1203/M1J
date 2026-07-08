@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">M1J</string>
+    <string name="navigation_drawer_open">open</string>
+    <string name="navigation_drawer_close">close</string>
+    <string name="batch">batch</string>
+
+    <string-array name="category_array">
+        <item>देश में नौकरी</item>
+        <item>विदेश में नौकरी</item>
+    </string-array>
+
+</resources>
